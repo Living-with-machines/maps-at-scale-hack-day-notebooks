@@ -1,3 +1,8 @@
+# Hack day 3 working notebooks
+
+- New notebooks and code for hack day 3 should go in this branch and be organised into folders related to the theme of exploration. 
+
+
 # Previous notebooks
 
 This is a rough content page for the previous hack days that might be useful for hack day 3... 
