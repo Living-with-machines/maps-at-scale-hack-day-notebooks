@@ -1,10 +1,10 @@
-1. Places where people read the news.
+## 1. Places where people read the news.
 
-"reading"
+##### "reading"
 
 Reading room, reading room, Reading rooms, Library & Reading Room, Reading room, Workingmen's Reading Room, rEADING rOOM, The Magnet (Reading Room)
 
-"institute"
+##### "institute"
 
 Mechanics' Institute                                10
 Literary Institute                                   6
@@ -22,13 +22,13 @@ mechanics' institute                                               1
 Workingmen's Institute                                             1
 
 
-"literary"
+##### "literary"
 
 Literary Institute       6
 Literary Inst.           1
 Literary Institution     1
 
-"library"
+##### "library"
 Liby.           1
 Library                     31
 Free Library                28
@@ -49,7 +49,7 @@ Library & Public Hall        1
 Free Library & Museum        1
 
 
-"friends"
+##### "friends"
 Friends' Meeting House                                   86
 Friends' Burial Ground                                   23
 Friends' Meeting Ho.                                     20
@@ -62,13 +62,13 @@ Jordan's (Friends Meeting House)                          1
 Spiceland Meeting House (Society of Friends)              1
 friends' meeting ho.                                      1
 
-"fellow"
+##### "fellow"
 Oddfellows' Hall                    14
 Oddfellows Hall                      4
 Goodfellows                          2
 Goodfellow's Hall                    1
 
-"club"
+##### "club"
 Club                                                      198
 Conservative Club                                          19
 Liberal Club                                               15
@@ -90,23 +90,23 @@ club house                                                  2
 club houses                                                 2
 Parish Club                                                 1
 
-"lecture"
+##### "lecture"
 Lecture Hall                   12
 Lecture Hall & Reading Room     1
 Lecture Room                    1
 
-"people"
+##### "people"
 People's Hall
 People's Palace
 People's Institute
 
-"coffee"
+##### "coffee"
 (Coffee House)               1
 
-"tea"
+##### "tea"
 Tea House                                           4
 
-"waiting"
+##### "waiting"
 Waiting Room            3
 Waiting Rooms           2
 Queen's Waiting Room    1
@@ -116,9 +116,9 @@ Refreshment Room                     21
 
 
 
-2. places where people work with machines
+## 2. places where people work with machines
 
-"factory"
+##### "factory"
 Woollen Factory            93
 Factory                    64
 Boot & Shoe Factory        18
@@ -156,7 +156,7 @@ Tweed Manufactory           3
 Manufactory                 3
 
 
-"mill"
+##### "mill"
 Corn Mill              1377
 Windmill               1223
 Mill                   1161
@@ -918,6 +918,7 @@ Flax Mill (Disused)                    5
 Lower Mill (Disused)                   4
 
 
+##### NEXT SEARCHES
 
-"
+## 3. transport labels
 
