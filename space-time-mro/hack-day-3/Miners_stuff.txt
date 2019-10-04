@@ -1,0 +1,34 @@
+### Miners' Effects
+
+Query GB1900 Labels for 'Miners' returns:
+
+Miners' Arms (P. H.)                          18
+Miners' Arms (B. H.)                           9
+Miners' Hall                                   8
+Miners' Arms Inn                               3
+Miners' Inn                                    2
+Miners' Bridge                                 2
+Miners Hall                                    2
+miners' arms (p. h.)                           2
+Minershouse                                    1
+Miners' Standard (P. H.)                       1
+Miners' Row                                    1
+Miners' Rest (B. H.)                           1
+Nant Gefail-y-miners                           1
+Miners' Rest                                   1
+West Cornwall Miners' & Women's Hospital       1
+Miners' Inn (B. H.)                            1
+Miners' Shaft                                  1
+Ballaminers                                    1
+Glenlogan Miners' Houses                       1
+Miners' Arms Hotel                             1
+Miners' Arms (P. H)                            1
+Miners' Arms                                   1
+Miners Safety Explosive Factory (Ammonite)     1
+Miners Row                                     1
+Miners Rest                                    1
+Miners Library                                 1
+Miners Arms (B. H.)                            1
+MINERS STREET                                  1
+Gold Miners' Arms (P. H.)                      1
+miners' institute                    
