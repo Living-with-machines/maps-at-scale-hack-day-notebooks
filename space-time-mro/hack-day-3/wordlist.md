@@ -896,7 +896,26 @@ Boreham Mill                         2
 Fruchie Mill                         2
 Bourton Mill                         2
 Bow Mill                             2
-
+Windmill (Disused)                   229
+Corn Mill (Disused)                  118
+Mill (Disused)                        54
+Windmill (disused)                    16
+corn mill (disused)                   11
+Flour Mill (Disused)                  11
+windmill (disused)                     8
+Paper Mill (Disused)                   7
+Mills (Disused)                        6
+Smelting Mill (Disused)                6
+Mill (disused)                         6
+Corn Mills (Disused)                   5
+Cotton Mill (Disused)                  5
+Saw Mill (Disused)                     5
+Woollen Mill (Disused)                 5
+Corn Mill (disused)                    5
+High Mill (Disused)                    5
+Bone Mill (Disused)                    5
+Flax Mill (Disused)                    5
+Lower Mill (Disused)                   4
 
 
 
