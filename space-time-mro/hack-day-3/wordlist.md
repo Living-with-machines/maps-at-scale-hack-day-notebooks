@@ -6,21 +6,20 @@ Reading room, reading room, Reading rooms, Library & Reading Room, Reading room,
 
 ##### "institute"
 
-Mechanics' Institute                                10
-Literary Institute                                   6
-Mechanics Institute                                  5
-Working Men's Institute                              5
-Workmen's Institute                                  4
-Seaman's Institute                                                 1
-Oddfellows' Institute                                              1
-Sailors' Institute                                                 1
-People's Institute                                                 1
-Soldiers' & sailors' Institute                                     1
-Seamen's Institute                                                 1
-miners' institute                                                  1
-mechanics' institute                                               1
-Workingmen's Institute                                             1
-
+Mechanics' Institute                                
+Literary Institute                                  
+Mechanics Institute                                 
+Working Men's Institute                             
+Workmen's Institute                                 
+Seaman's Institute                                  
+Oddfellows' Institute                               
+Sailors' Institute                                  
+People's Institute                                  
+Soldiers' & sailors' Institute                      
+Seamen's Institute                                  
+miners' institute                                   
+mechanics' institute                                
+Workingmen's Institute                              
 
 ##### "literary"
 
@@ -1517,4 +1516,3 @@ Sewage Works (Saddleworth U. D. Council)                   2
 ##### NEXT SEARCHES
 
 ## 3. transport labels
-
