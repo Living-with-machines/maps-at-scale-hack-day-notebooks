@@ -14,8 +14,7 @@ Mechanics' Institute, Literary Institute, Mechanics Institut, Working Men's Inst
 Literary Institute, Literary Inst., Literary Institution
 
 ##### "library"
-Liby.           1
-Library                     31
+Liby., Library
 Free Library                28
 Public Library               8
 free library                 3
