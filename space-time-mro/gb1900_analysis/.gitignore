@@ -1,2 +1,5 @@
 data_EPSG_4326
 gb1900_gazetteer_complete_july_2018.csv
+data2train*
+gb1900_gazetteer_complete_july_2018_with_xyz.pkl
+brit_wikigazetteer.pkl
