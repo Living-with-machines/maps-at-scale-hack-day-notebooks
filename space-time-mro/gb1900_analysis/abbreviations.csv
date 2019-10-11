@@ -1,0 +1,936 @@
+label,text
+A,"Alley, Approach, Arcade, Avenue"
+A,Area
+A,Telephone Call Box (AA) (small scales)
+AA,AA call box
+A/D,Asphalt Disc
+AA,Automobile Association
+AAT,Analytical Aerial Triangulation
+Aber,Aberdeenshire
+ABUT,Abutment
+Acad,Academy
+Ad Co,Administrative County
+Adj,Adjacent
+ADMin Co,Administrative County
+AGL,Above Ground Level
+AL,Alley
+ALB,Air Light Beacon
+Allot Gdns,Allotment Gardens
+Alt,Altitude
+Alts,Alterations
+Amb Sta,Ambulance Station
+AND,Administrative Names Diagram
+ANG,Angle
+Angle,Anglesey
+Angus,Angus
+AOD,Above Ordnance Datum
+AP,Air Point
+AP,Approach
+APP,Approach
+APPROX,Approximately
+Apr,April
+AR,Arcade
+ARC,Arcade
+Argyll,Argyllshire
+Aug,August
+AUX,Auxiliary
+Av or Ave,Avenue
+Avon,Avon
+Ayr,Ayrshire
+B,"Baulk, Bank, Base, Basin, Bridge, Broad"
+B,Boiler
+B,"Boulevard, Broadway, Brow"
+B,Break in dual carriageway
+B,Break in house numbers
+B Md,Boundary Mound
+B Mk,Boundary Mark
+B Rod,Brass Rod
+B-P,By-pass
+Banff,Banffshire
+Bapt,Baptist
+BATT,Battlement
+Battery,Bty
+BB,Base of Bank
+BB,Buried Block
+BC,Borough Constituency
+BC,Burgh Constituency
+BD,Boulevard
+Bdy,Boundary
+BDY,Broadway
+Bdy M,Boundary Mark or Mound
+Beds,Bedfordshire
+Berks,Berkshire
+Berwick,Berwickshire
+BG,Burial Ground
+BH,Beer House
+Bk,Bank
+BK,Bank (building)
+BK H,Bake House
+Bks,Barracks
+BLDG(S),Building(s)
+Bldgs,Buildings
+Blg,Building
+BM,Bench Mark
+BN,Barn
+Bn,Broken (hedge or bank)
+Bo,Boulder
+BO H,?Boiler House
+Bol,Bollard
+Boro,Borough
+Boro Const,Borough Constituency
+BP,Boundary Post or Plate
+BR,Brass Rivet
+Br,Bridge
+BR,Bridge
+BR,Bridle Road
+BR,Brow
+BR H,Brew House
+Br P,Braced Post
+Brac/RG,Bracken and Rough grassland
+Breck,Brecknockshire
+BS,Boundary Stone
+Bucks,Buckinghamshire
+Burgh Const,Burgh Constituency
+Burial Gd,Burial Ground
+Bus,Omnibus
+Bute,Buteshire
+BUTT,Buttress
+BVD,Boulevard
+BY,Broadway
+BY-PS,By-pass
+(C),Close (Boulders)
+C,"Cam, Canal, Causeway, Centre of, Channel, Cliff, Conduit, Cop, Course of, Covered, Culvert, Cut"
+C,"Carriage, Creek, Cross"
+C,"Causeway, Chase, Circle, Circus, Close, Corner, Court, Crescent, Croft, Cross, Cut"
+C,Cock
+C,Community (Wales)
+C,Coniferous
+C,Crane
+C in W,Church in Wales
+C of E,Church of England
+C of S,Church of Scotland
+Caern,Caernarvonshire
+Caithness,Caithness
+Calv,Calvinist
+Cambs,Cambridgeshire
+Car Pk,Car Park
+Card,Cardiganshire
+Carm,Carmarthenshire
+Cas,Castle
+CAS,Castle
+CATH,Cathederal
+Cath,Cathedral
+Cathl,Cathedral
+CB,"Centre of Bank, Basin, Baulk, Broad"
+CB,Coal Bin
+CB,County Borough
+CC,Centre of Canal
+CC,Chisel Cut (Mark)
+CC,Coal Cover?
+CC,County Constituency
+CC,County Council
+CCLW,Centre of Channel at Low Water
+CCS,Centre of Covered Stream
+CD,Centre Drain
+CD,Centre of Drain
+CDK,Centre Drain at Kerb
+CDS,Cul de sac (Station)
+Cemy,Cemetery
+Cen,"Centre (Social, etc)"
+CF,Croft
+CFT,Croft
+CG,Cattle Grid
+CG Lookout,Coastguard Lookout
+CG Sta,Coastguard Station
+CH,Chase
+Ch,Church
+CH,Club House
+CH,Coach House
+CH,Coach House
+CH,Coal House
+Ch Yd,Church Yard
+CHA,Chase
+Chap,Chapel
+Ches,Cheshire
+Chr Sc Ch,Christian Science Church; Church of Christ Scientist
+Chy,Chimney
+Cin,Cinema
+CIR,"Circle, Circus"
+CIRC,"Circle, Circus"
+Cis,Cistern
+CL,Close
+CL,Close [density]
+Cl,Close [place]
+Clackmannan,Clackmannanshire
+CB,Coal Bin
+Cleve,Cleveland
+Cl H,Coal House
+CLUB HO,Club House
+Clwyd,Clwyd
+CM,Chalk/Crayon Mark
+Cn,Capstan
+CN,Cistern
+Cnl,Council (not in conjunction with county)
+CNR,Corner
+Cnr,Corner
+Co Cnl,County Council
+Co Const,County Constituency
+Co of City,County of City
+Co-ed,Co-educational
+Co-ord(s),Co-ordinate(s)
+COCS,Centre of old course of stream
+CoH,Cow House
+Col,Collects
+Coll,College
+Colly,Colliery
+Comm Centre,Community Centre
+Comps,Computations
+Conc,Concrete
+Congl,Congregational
+Conv Home,Convalescent Home
+Cop,Coppice
+Corn,Cornwall
+Corpn,Corporation
+Corpn Yd,Corporation Yard
+Cott,Cottage
+CP,Centre Punched (Mark)
+CP,Cess Pool
+CP,Civil Parish
+CPA,Comparator Point (Air)
+CPG,Comparator Point (Ground)
+Cr,Centre [of stone marking triangulation point]
+CR,"Centre of Railway, River, Road"
+CR,Continuous Revison
+Cr,Crescent
+CR,Crescent
+cr,Crosses
+Crem,Crematorium
+Cres,Crescent
+CRES,Crescent
+CRT,?
+CS,Centre of Stream
+CS,Cess Pool
+CS,Cross
+Cse,Course
+CSWY,Causeway
+CT,Cart Track
+Ct,Court
+CT,Court
+CT H,Cart House
+CT S,Cart Shed
+CU,Classification unchanged
+CU,Cut
+Cul,Culvert
+Cumb,Cumberland
+Cumbr,Cumbria
+Cvt,Convent
+CW,Causeway
+CW,Centre of Wall
+D,"Dale, Drive, Drove"
+D,"Dam, Ditch, Dock, Double, Down, Drain"
+D Fn,Drinking Fountain
+D Slip,Double slip (railway)
+D Well,Draw Well
+D/G,Downgrade
+DB,Dust Bin
+DD,Double Ditch or Drain
+Dec,December
+Def,Defaced
+Denb,Denbighshire
+Dept,Department
+Derby,Derbyshire
+Det,Detached
+Det Ring,Detector Ring
+Devon,Devon
+DF,Double Fence
+DF,Drain Frame
+DF,Drinking Fountain
+DG,Double Gate (level crossing)
+DG,Drying Ground
+Dial,Sun Dial
+Dis,Disused
+DIS,Disused
+Dismtd Rly,Dismantled Railway
+Dist,District
+Div,Division
+Dk,Dock
+DL,Dale
+DOR,Date of Revision
+Dorset,Dorset
+DOS,Date of Survey
+DP,Dung Pit
+Dr,Drive
+DR,Drive
+DRO,Drove
+DS,Double Stream
+Dumfrie,Dumfriesshire
+Dunbar,Dunbartonshire
+Durham,Durham
+DV,Drove
+DW,Double Wall
+DW,Draw Well
+Dyfed,Dyfed
+E,East
+E,"Edge of, Eyot"
+E,"Embankment, Esplanade"
+E,End
+E Lothian,East Lothian
+E Susx,East Sussex
+ED,Electoral Division
+ED,European Datum
+E,Electromagnetic Distance Measurement
+EK,Edge of Kerb
+El,Electric or Electricity
+El,Gen Sta Electricity Generating Station
+El P,Electricity Pillar or Electricity Pole
+El Sub Sta,Electricity Sub Station
+El Tfmr,Electricity Transformer
+El Tfmr Sta,Electricity Transformer Station
+El Wks,Electricity Works
+ELB,?Electric Light Bracket
+ELS,Electric Light Standard
+EM,Embankment
+EM,End of Motorway
+EMB,Embankment
+Emp,Employment
+Emp Ex,Employment Exchange
+Eng Wks,Engineering Works
+ENT,Entrance
+ES,End of Straight (railway)
+ESP,Esplanade
+ESPL,Esplanade
+Essex,Essex
+ETB,?
+ETL,Electricity Transmission Line
+Euro Const,European Assemby Constituency
+Ex,Exchange
+F,???
+F,"Face of, Fence, Fleet, Foot, Freeboard"
+F,"Flyover, Folly"
+F,Furrow
+Fall,Waterfall
+F Br,Foot Bridge
+F Ch,Free Church
+F Sta,Fire Station
+FA,Fire Alarm
+FAP,Fire Alarm Pillar
+FB,Filter Bed
+FB,Foot Bridge
+FBM,Fundamental Bench Mark
+FC,Forestry Commission
+FC,Free Church
+FD,Foundations
+FE Sta,Fire Engine Station
+Feb,Februray
+Ferry V or F,"Ferries - Vehicular, Foot"
+FF,Face of Fence
+FH,? Fire Hydrant
+Fife,Fife
+FL,Face Left
+FL BR,Flush bracket
+Fl Sk,Flare Stack
+FL-O,Fly-over
+FL H,?
+Flint,Flintshire
+Fm,Farm
+FN,Felt Nail
+Fn,Fountain
+FN/W,Felt Nail and Washer
+FO,Folly
+FP,Face of Paling
+FP,Fire Plug
+FP,Fire Plug
+FP,Foot Path
+FR,Face Right
+FR,Flat Rock
+FS,Flagstaff
+Ft,Feet
+FW,Face of Wall
+,
+G,"Gap, Gardens, Gate, Green, Grove"
+G,"Gate, Grass"
+G Yd,Grave Yard
+GAP,Gap
+Gas Gov,Gas Governor
+GC,Gas Column
+GD,Gardens
+Gd,Ground
+Gdns,Gardens
+Gen Sta,Generating Station
+Geo,Geodetic
+GH,Green House
+Gl,Glass
+Glam,Glamorganshire
+GLC,Greater London Council
+Glos,Gloucestershire
+GN,Green
+Govt,Government
+GP,Gas Plug
+GP,Guide Post (signpost)
+GPO,General Post Office
+Gr,Grove
+Gr,Grove
+Greater London,Greater London [pre-1974]
+GS,Gantry Support
+GSL,Ground Surface Level
+GT,Gate
+Gt,Gate
+GT P,Gate post
+Gt P,Gate Post or Pillar
+Gtr London,Greater London [post-1974]
+Gtr Mches,Greater Manchester
+GV,Gas Valve
+GVC,Gas Valve Compound
+Gwent,Gwent
+Gwyn,Gwynedd
+H,"Harbour, Hedge"
+H,Heights
+H,"Heights, Hill, Hollow"
+H,"High, Hole, House, Hydrant, Hydraulic"
+H,Hydrant
+H,Hydraulic
+ha,Hectares
+Hants,Hampshire
+Hd,Head
+Here,Herefordshire
+Here and Worc,Hereford and Worcester
+Herts,Hertfordshire
+HL,Hill
+HNT,House Number Trace
+Ho,House
+HOL,Hollow
+Hospl,Hospital
+HP to which MTs flow,Highest Point to which Medium Tides flow
+HP to which OSTs flow,Highest Point to which Ordinary Spring Tides flow
+HP to which OTs flow,Highest Point to which Ordinary Tides flow
+HPO,Head Post Office
+HQ,Headquarters
+HR,Hedge Row
+HT,Heights
+HTS,Heights
+Humbs,Humberside
+Hunts,Huntingdonshire
+HW,Hollow
+HW,Hollow Way; High Water
+HWM,High Water Mark
+HWM(S),High Water Mark (Springs)
+HWMMT,High Water Mark of Medium Tides
+HWMOST,High Water Mark of Ordinary Spring Tides
+HWMOT,High Water Mark of Ordinary Tides
+I,"Island, Isle"
+I of M,Isle of Man
+I of W,Isle of Wight
+IDT,Instrumental Detail Trace
+IH,Inspection Hole?
+Indpt,Independent
+Indt,Independent
+Infmy,Infirmary
+Inft,Infant
+ins,Inches
+Inst,Institute
+Instn,Institution
+Int,Intersection/Intersected
+Inver,Inverness-shire
+IP,Iron Pipe
+IR,Iron Rod
+IRB Sta,Inshore Rescue Boat Station
+Is of Sc,Isles of Scilly
+Isoln Hospl,Isolation Hospital
+Iss,Issues
+J,Junction
+Jan,January
+JMI,Junior Mixed and Infants
+JN,Junction
+Jul,July
+Jun,June
+Junc,Junction
+K,Kerb
+Kent,Kent
+Kincar,Kincardineshire
+Kinross,Kinross-shire
+Kirkcud,Kirkcudbrightshire
+km,Kilometres
+Km P,Kilometre Post
+KN,Kiln
+KS,Kitchin Sink
+L,"Lade, Lake, Lead, Loch, Lockspit, Lynchet"
+L,Lake
+L,"Lane, Lawn, Lea"
+L,"Lane, Leat, Lock, Lamp"
+L,Loch
+L,Lochan
+L,Lock
+L Ho,Lighthouse
+L Tan,Left Tangent
+L Twr,Lighting Tower
+La,Lane
+Lanark,Lanarkshire
+Lancs,Lancashire
+Lat,Latitude
+Lav,Lavatory
+LB,Letter Box
+LB,London Borough
+LB Ho,Lifeboat House
+LB Sta,Lifeboat Station
+LC,Level Crossing
+LCC,London County Council
+LDP,Long Distance Path
+LE,Lea
+Leic,Leicestershire
+LG,Loading Gauge
+LH,Lamp House
+Liby,Library
+Linc,Lincolnshire [pre-1974]
+Lincs,Lincolnshire [post-1974]
+LK,Lime Kiln
+LKN,Lime Kiln
+LN,Lawn
+Lo,Lodge
+Loco Shed,Locomotive Shed
+Long,Longitude
+LP,Lamp Post
+Lr,Lower
+LRO,Local Reference Object
+LT,London Transport
+LWL,Low Water Level
+LWM,Low Water Mark
+LWM(S),Low Water Mark (Springs)
+LWMMT,Low Water Mark of Medium Tides
+LWMOST,Low Water Mark of Ordinary Spring Tides
+LWMOT,Low Water Mark of Ordinary Tides
+LWN,Lawn
+LWR,Last Walk Round
+M,"Mark, Mile, Mooring, Mound"
+M,"Marsh, Mere, Moat"
+M,Masonry
+M,"Mead, Mews, Mound, Mount"
+(m),Medium (boulder density)
+m,Metres
+M,Metres
+M,Miles
+Mag Var,Magnetic Variation
+Mar,March (month)
+May,May
+MB,Municipl Borough
+MC,Minor Control
+MCPA,Minor Control Point Album
+MCTS,Minor Control Traverse Station
+MD,Mound
+Me,Mead
+Meml,Memorial
+Meri,Merionethshire
+Mers,Merseyside
+met,Metalled
+Met,Metropolitan
+Met Sta,Meteorological Station
+Meth,Methodist
+Mg P,Mooring Post
+MH,Malt House
+MH,Man Hole
+MH & MLW,Mean High and Mean Low Water
+MH & MLWS,Mean High and Mean Low Water Springs
+MHW,Mean High Water
+MHWS,Mean High Water Springs
+Mid Glam,Mid Glamorgan
+Midloth,Midlothian
+Min Tech,Ministry of Technology
+Misn,Mission
+Misn Ch,Mission Church
+Mix,"Mixed, Mixture (woods classification)"
+Mkt,Market
+Mkt Ho,Market House
+MLW,Mean Low Water
+MLWS,Mean Low Water Springs
+MO,Matter of opinion
+Mod,Module
+Mon,Monument
+Monm,Monmouthshire
+Mont,Montgomeryshire
+Moray,Morayshire
+Mortuary,Mort
+MP,Mile Post
+MP,Mooring Post
+MPU,Mail Pick-up
+Mr,Manor
+MR,Mooring Ring
+MS,Mews
+MS,Mile Stone
+MSD,Master Survey Drawing
+MSL,Mean Sea Level
+MT,Mount
+Mt,Mountain
+"MT, MTs",Medium Tide(s)
+Mtl Hospl,Mental Hospital
+Multi Car Park,Multistory Car Park
+Munl,Municipal
+Mus,Museum
+N,No name or number
+N,North
+N Bd,Notice Board
+N Sq,Not Square
+N Yorks,North Yorkshire
+Nairn,Nairnshire
+NBM,New Bench Mark
+NC,Non-coniferous
+NCB,National Coal Board
+ND,No division
+NG,National Grid
+No,Number
+Noncon,Nonconformist
+Norf,Norfolk
+Northants,Northamptonshire
+Northum,Northumberland
+Notts,Nottinghamshire
+Nov,November
+NS,Not square
+NT,National Trust
+NTL,Normal Tidal Limit
+NTS,National Trust for Scotland
+(o),Open (boulder density)
+O,Office
+O,Old
+O,Orchard
+Obsy,Observatory
+Oct,Octagonal
+Oct,October
+OE,Orignal Error
+OG,Ornamental Ground
+ON,Oven
+OPP,Opposite
+OR,Orchard
+OR,Outcropping Rock
+Orch,Orchard
+Orkney,Orkney
+OS,Out Stipple
+OSBM,Ordnance Survey Bench Mark
+OSGB,Ordnance Survey Great Britain
+"OST, OSTs",Ordinary Spring Tide(s)
+"OT, OTs",Ordinary Tide(s)
+Oxon,Oxfordshire
+P,"Paling, Passage, Pavement, Pillar, Plug, Pool, Pump"
+P,"Parade, Pass, Passage, Path, Place, Precinct, Promenade"
+P,"Passage, Path, Plate, Pond, Post"
+P,Passenger
+P,Pillar
+P,Pole
+P,Post
+P,Post Office (small scales)
+P,Pump
+P,Pylon
+PA,Path
+PAB,Published Abstract Bolt
+Paint M,Paint Mark
+Pal,Palace
+PAR,Parade
+PARA,Parapet
+Parly,Parliamentary
+PASS,Passage
+Pav,Pavilion
+PC,Public Convenience
+PCB,Police Call Box
+PD,Detail Point (Point of Detail)
+Pd,Pond
+Peebles,Peeblesshire
+Pemb,Pembrokeshire
+Per Cur,Perpetual Curacy
+Perth,Perthshire
+PG,Passage
+Ph,Parish
+PH,Public House
+Pillar,(OS) Triangulation pillar
+Pks,Pecks
+Pkt,Picket
+PL,Pipe Line
+Pl,Place
+Plantn,Plantation
+PLB,?Pillar Letter Box
+PN,Pipe Nail
+PN/W,Pipe Nail and Washer
+PO,Post Office (large scales)
+POD,Detail Point (Point of Detail)
+Pol ho,Police House
+Pol Sta,Police Station
+Powys,Powys
+PP,Primary Point
+Pp,Pump
+Pp Ho,Pump House
+Ppg Sta,Pumping Station
+PR,Periodic Revision
+PR,Promenade
+PRE,Precinct
+Presb,Presbyterian
+Presby,Presbytery
+Prim Meth,Primitive Methodist
+PRODN,Production
+PROM,Promenade
+PS,Pass
+PSH,Parish
+Pt,Point
+PT,Precinct
+Pte,Private
+PTP,Police Telephone Pillar or Post
+PTS,Permanent Traverse Station
+Pub,Public
+PW,Place of Worship
+PY,Piggery
+Py,Privy
+Q,Quay
+QY,Quay
+R,"Race, Railway, Ride, River, Road, Root of"
+R,"Ridge, Rise, Road, Row"
+R,River
+R,Rocks
+R,Telephone Call Box (RAC) (small scales)
+RAC,Royal Automobile Club
+RAC,RAC call box
+Rad,Radnorshire
+Range,Rifle Range
+RB,Rural Borough
+RC,Roman Catholic
+Rd,Road
+RD,Rural District
+RDG,Ridge
+Rec,Rectory
+Recn,Recreation
+Recn Gd,Recreation Ground
+Rems of,Remains of
+Renfrew,Renfrewshire
+Resr,Reservoir
+RG,Bracken/rough grassland
+RG,Ridge
+RH,Road House
+RH,Root of Hedge
+RL,Roof Line
+Rly,Railway
+Rly Sta,Railway Station
+RO,Reference/Referring Object
+RO,Retain Original
+Ross and Crom,Ross and Cromarty
+Roxb,Roxburghshire
+rp,Revision Point
+RS,Rain Spout
+R Tan,Right Tangent
+Rut,Rutland
+RW,Row
+Ry,Railway
+S,"Scar, Sewer, Side of, Slope, Sluice, Stone, Stream"
+S,"Side, Spur, Square, Stairs, Steps, Strand, Street"
+S,Sink; Sink Stones
+S,South
+S,Stone
+S,Street (mereing)
+SA,Salvation Army
+Salop,Shropshire
+SANatm,Sanatorium
+SAND,Sub-Areas Name Diagram
+SB,Signal Box
+S Br,Signal Bridge
+Sc,Scrub
+SC,Stop Cock
+(Scat),Scattered (density)
+Sch,School
+SD,Side
+SD,Single Drain or Ditch
+Sd,Sound
+SD,Strand
+SD,Strand
+SD,Sun Dial
+Sec,Secondary
+Selk,Selkirkshire
+Sep,September
+SF,???
+SF,"Side of Fence, Furrow, etc"
+SG,Sewer Grate
+S Gantry,Signal Gantry
+S Glam,South Glamorgan
+SH,Summer House
+Sh Fd,Sheep Fold
+Sk,Sketched
+Sks,Sinks
+SL,Signal Lamp
+SL,Signal Light
+Sl,Sluice
+SM,Sloping Masonry
+Smy,Smithy
+SN,Scientific Network
+Somer,Somerset
+SP,Sewer Pipe
+SP,Signal Post
+Sp,Spire
+Sp,Spreads
+SP,Spur
+Spr,Spring
+Sq,Square
+SQ,Square
+SR,Side of River
+SRS,Stairs
+SS,Saints
+SS,Single Stream
+SSlip,Single Slip
+St,Saint
+ST,Spring Tides
+ST,Stable
+St,Stone
+St,Street
+Sta,Station
+Staf,Staffordshire [pre-1974]
+Staffs,Staffordshire [post-1974]
+S Sta,Signal Station
+Std,Standard
+Stirl,Stirlingshire
+Stn,Station
+STPS,Steps
+STRS,Stairs
+STS,Steps
+Sts,Steps
+Suff,Suffolk
+Sun Sch,Sunday School
+Sur,Surface
+Sur B,Surface Block
+Surrey,Surrey
+Sussex,Sussex
+Suther,Sutherland
+SV,Sewer Vent?
+SV,Spirit Vaults
+SW,Sloping Wall
+Sw,Switch
+T,"Tank, Tap, Tides"
+T,Telephone Call Box (small scales)
+T,"Terrace, Track"
+T,Top of
+T,Trough
+TA,Territorial Army; Territorial and Army Volunteer Reserve
+TA Centre,Territorial Army; Territorial and Army Volunteer Reserve Centre
+Tachy,Tacheometer/Tacheometry
+TAD,Trig Availability Diagram
+TB,Top of Bank
+TC,Travelling Crane
+TCB,Telephone Call Box
+TCP,Telephone Call Post or Pillar
+TCP,Temporary Control Point
+TE,Terrace
+Tech Coll,Technical College
+Tel Ex,Telephone Exchange
+Tel Line,Telephone Line
+Tel P,Telephone Pole
+Ter,Terminus
+Ter,Terrace
+Terr,Terrace
+Terr,Terrace
+Tert,Tertiary
+TG,Toll Gate
+TH,Tool House ?
+TH,Town Hall
+Tk,Tank
+Tk,Track
+Tk,Track
+Tk F,Track of Fence
+Tk H,Track of Hedge
+Tk S,Track of Stream
+TLH,Tool House ?
+Toll,Toll Bridge or Gate
+TP,Telegraph Pole
+TP,Turnpike
+Tr,Trough
+TR,Trough
+Trav,Traverse
+Trav C,Travelling Crane
+Trig Sta,Trigonometrical Station
+ts,Traverse Station
+TV Sta,Television Station
+TWL,Top Water Level
+Twr,Tower
+Tyne and Wear,Tyne and Wear
+U Ref Ch,United Reformed Church
+UD,Urban District
+UF,United Free
+ULC,Upper Level of through Communication
+(um),Unmade
+Und,Undefined
+Undenom,Undenominational
+Under Constn,Under Construction
+Unitn,Unitarian
+Univ,University
+UP,United Presbyterian
+Upr,Upper
+UTM,Universal Transverse Mercator
+V,Valve
+V,Ventilator
+V,"Vale, View, Villas"
+V Ho,Valve House
+VA,Vale
+VA,Vertical Angle
+VA,Voluntary Assisted
+VC,Valve Cover
+VC,Voluntary Controlled
+VI,Vertical Interval
+VI,Villas
+Vic,Vicarage
+VIL,Villas
+Vr,Ventilator
+VT,Vault
+VW,View
+,
+W,"Walk, Way, Wharf"
+W,"Wall, Weir"
+W,"Water, Wood"
+W,Watershed
+W,Well
+W,Well
+W,West
+W Glam,West Glamorgan
+W Lothian,West Lothian
+W Meth,Wesleyan Methodist
+W Mids,West Midlands
+W Post,Wooden Post
+W Susx,West Sussex
+W Yorks,West Yorkshire
+War Meml,War Memorial
+Warw,Warwickshire
+WB,Weighbridge
+WB,Weighing Machine
+WC,Water Closet
+WC,Water Column?
+Wd El Gen,Wind Electricity Generator
+Wd Pp,Wind Pump
+Wes,Wesleyan
+Wes Meth,Wesleyan Methodist
+Westm,Westmorland
+WF,Wharf
+WF,Wharf
+WH,Wash House
+WH,Water House
+Wigtown,Wigtownshire
+Wilts,Wiltshire
+WK,Walk
+Wks,Works
+WLK,Walk
+WM,Water Main?
+WM,Weighing Machine
+WM,Witness Mark
+WMP,Warning and Monitoring Post (Royal Observer Corps)
+WN,Wire Nail
+Worc,Worcestershire
+WP,Water Plug
+WP,Wooden Peg
+Wr Bd,Water Board
+Wr Pt,Water Point
+Wr T,Water Tap
+Wr Twr,Water Tower
+Wr Wks,Water Works
+WS,Work Shop
+WT,Water Tap
+WT,Water Tap (Public)
+WT Sta,Wireless Station
+WV,Water Valve
+WWL,Winter Water Level
+WY,Way
+XC,Cross Cut
+Y,Yard
+Y,Youth Hostel
+Yd,Yard
+YH,Youth Hostel
+YMCA,Young Men's Christian Association
+Yorks,Yorkshire
+YWCA,Young Women's Christian Association
+Zetland,Zetland
