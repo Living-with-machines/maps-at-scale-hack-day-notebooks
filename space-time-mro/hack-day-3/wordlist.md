@@ -6,6 +6,7 @@ Reading room, reading room, Reading rooms, Library & Reading Room, Reading room,
 
 ##### "institute"
 
+
 Mechanics' Institute, Literary Institute, Mechanics Institut, Working Men's Institute, Workmen's Institute, Seaman's Institute, Oddfellows' Institute, Sailors' Institute, People's Institute, Soldiers' & sailors' Institute, Seamen's Institute, miners' institute, mechanics' institute, Workingmen's Institute
 
 
@@ -901,8 +902,603 @@ Bone Mill (Disused)                    5
 Flax Mill (Disused)                    5
 Lower Mill (Disused)                   4
 
+##### “Factori”
+
+Lace Factories                   3
+Woollen Factories                3
+Hat Manufactories                2
+Hosiery Manufactories            2
+Earthenware Manufactories        1
+Linen Factories                  1
+Varnish & Japan Manufactories    1
+
+##### “work” (not all, until 2)
+Patent Fuel Wks.                2
+Steel Wks.                      2
+Blaenavon Iron & Steel Wks      1
+Brinsworth Iron & Wheel Wks.    1
+Cleveland Steel Wks.            1
+Fuel Wks.                       1
+Globe Steel Wks.                1
+Holmes Steel Wks.               1
+Imperial Steel Wks.             1
+Midland Steel Wks.              1
+Monway Iron & Steel Wks.        1
+Parkhead Forge & Steel Wks.     1
+Phoenix Bessemer Steel Wks.     1
+Steel Wks. (Disused)            1
+Gas Wks.                                                  109
+Brick Wks.                                                 47
+Iron Wks.                                                  42
+Gas Wks                                                    20
+Chemical Wks.                                              17
+Dye Wks.                                                   15
+Brick & Tile Wks.                                          14
+gas wks.                                                   10
+Brick Wks                                                   7
+Brick Wks. (Disused)                                        7
+Wks.                                                        6
+Sewage Wks.                                                 6
+Water Wks.                                                  6
+Engineering Wks.                                            6
+Bleach Wks.                                                 5
+Engine Wks.                                                 5
+Oil Wks.                                                    4
+Boiler Wks.                                                 4
+Electricity Wks.                                            4
+Tube Wks.                                                   4
+Glass Wks.                                                  4
+Joinery Wks.                                                4
+Brass Wks.                                                  3
+Brick, Tile & Pottery Wks.                                  3
+Bottle Wks.                                                 3
+Electric Light Wks.                                         3
+Metal Wks.                                                  3
+Cement Wks. (Disused)                                       3
+Manure Wks.                                                 3
+Carpet Wks.                                                 3
+Rope Wks.                                                   3
+Wire Wks.                                                   3
+Wagon Wks.                                                  2
+Water Wks                                                   2
+Victoria Wks.                                               2
+Colour Wks.                                                 2
+Tin Plate Wks.                                              2
+Glass Bottle Wks.                                           2
+Salt Wks.                                                   2
+Granite Wks.                                                2
+Pumping Station (Clevedon Water Wks. Co.)                   2
+Sewage Wks. (Hemsworth R. D. Council)                 2
+Printing Wks.                                         2
+Gas Wks. (Disused)                                    2
+Soap Wks.                                             2
+Pentyrch Steel & Tin Plate Wks.                       2
+Fire Brick Wks.                                       2
+Patent Fuel Wks.                                      2
+Park Brick & Tile Wks.                                2
+Steel Wks.                                            2
+Cabinet Wks.                                          2
+Organ Wks.                                            2
+Albion Wks.                                           2
+iron wks.                                             2
+Iron wks.                                             2
+brick wks.                                            2
+Iron Wks                                              2
+Lead Wks.                                             2
+Ice Wks.                                              2
+Hosiery Wks.                                          2
+Brick & Tile Wks. (Disused)                           2
+Brick & Tile Wks                                      2
+Possil Engine Wks.                                    1
+Prideaux Wood Wks. (China Clay)                       1
+Powkelane Brick Wks.                                  1
+Jute & Hemp Wks.                                      1
+Kennet Wks. (Iron & Brass)                            1
+Print Wks.                                            1
+Kipps Brick Wks.                                      1
+Printing Wks                                          1
+Jerusalem Lime Wks. (Disused)                            1
+Prospect Iron Wks.                                       1
+Kerrowmoor China Clay Wks.                               1
+Plascerig Brick Wks.                                     1
+L. & Y. R. Carriage & Wagon Wks.                         1
+Phoenix Bessemer Steel Wks.                              1
+Pembrey White Lead Wks.                                  1
+Pen-lôn Slate Wks.                                       1
+Penhale Stents China Clay Wks.                           1
+Lansalson China Clay Wks.                                1
+Langlands Brick Wks.                                     1
+Lands End Bleach Wks.                                    1
+Phoenix Chemical Wks.                                    1
+Pont-y-strad Pumping Station (Denbigh Water Wks.)        1
+Phoenix Iron Wks.                                        1
+Phoenix Varnish Wks.                                     1
+Phosphate Wks.                                           1
+Phospho-Guano Wks.                                       1
+Pumping Sta (Grimsby Corp. Sewage Wks.)                  1
+Plough Wks.                                              1
+Japan Wks.                                               1
+Irthlingborough Brick & Tile Wks.                        1
+Irwell Bleach & Dye Wks.                                 1
+Ice & Cold Storage Wks.                                  1
+Ickles Wks.                                              1
+Imperial Steel Wks.                                      1
+Imperial Tube Wks.                                       1
+Irkdale Bleach Wks.                                      1
+Pumping Sta. (Folkestone Water Wks.)                     1
+Regent Iron Wks.                                         1
+Refuse Despatch Wks.                                     1
+Railway Signal Wks.                                      1
+Pumping Wks.                                             1
+Pumping Station (New River Co's. Water Wks.)             1
+Pumping Station (Hailsham Water Wks.)                    1
+Iron Foundry & Tool Wks.                                 1
+Pumping Station (Droitwich Corporation Water Wks.)       1
+Iron Wks (Disused)                                       1
+Pumping Station (Arbroath Corporation Water Wks.)        1
+Parkhead Forge & Steel Wks.                              1
+Pumping Sta. (South Staf. Water Wks. Co.)                1
+Lantern China Clay Wks.                                  1
+Lydbrook Tin Plate Wks.                                  1
+Parkfield Brick Wks.                                     1
+Park Wks.                                                1
+Low Level Reservoir (Clevedon Water Wks. Co.)            1
+Mineral W. Wks.                                          1
+Mineral Water Wks.                                      1
+Minerva Needle Wks.                                     1
+Monmore Green Wks.                                      1
+Montague Fire Brick Wks.                                1
+Monway Iron & Steel Wks.                                1
+Moorepark Boiler Wks.                                   1
+Motor Wks.                                              1
+London Wks.                                             1
+Mount Sion Bleach Wks.                                  1
+Muspratt Wks.                                           1
+N. E. Railway Wks.                                      1
+Mill-lands Smelting Wks                                 1
+Mill-lands Brick & Tile Wks.                            1
+Mars Iron Wks.                                          1
+Main Drainage Wks.                                      1
+Manhattan Wks.                                          1
+Manor Wks.                                              1
+Lumley Brick Wks.                                       1
+Lower Water wks. (Bridlington Corpn.)                   1
+Mathieson Wks.                                          1
+Midland Steel Wks.                                      1
+Mauldslie Preserve Wks                                  1
+Melin Crythan Chemical Wks.                             1
+Merton Abbey Silk Printing Wks                          1
+Lower Ninestones China Clay Wks.                        1
+Metropolitan Brick & Tile Wks.                          1
+Locomotive Wks.                                         1
+Neath Abbey Wks                                         1
+Nelson Wks                                              1
+Paper Wks.                                              1
+Old Lane Dye Wks.                                       1
+Or Yo Wks.                                              1
+Linoleum & Floorcloth Wks                               1
+Linen Wks.                                              1
+Paint & Colour Wks.                                     1
+Lime Wks.                                                   1
+Lightmoor Brick & Tile Wks.                                 1
+Old Brick Wks.                                              1
+Leather Wks.                                                1
+Lead Wks. (Disused)                                         1
+Paraffin wks.                                               1
+Parchment Wks                                               1
+Magnetic Filter Wks.                                        1
+Park Gear Wks.                                              1
+Net Wks.                                                    1
+Netherfield Chemical Wks.                                   1
+Newton Salt Wks. (Disused)                                  1
+Nine Elms Wks.                                              1
+Locomotive Repairing Wks.                                   1
+Ninelocks Brick Wks.                                        1
+North View (Photographic Wks.)                              1
+Lock Wks                                                    1
+Locomotive & Carriage Wks.                                  1
+Oakfields Steel Wire Wks.                                   1
+Ochre Wks.                                                  1
+Oil & Chemical Wks.                                         1
+Lock's Wharf & Lead Wks.                                    1
+Oil Wks                                                     1
+Lead & Color Wks.                                           1
+Rutland Wks.                                                1
+Wire & Hemp Rope Wks.                                       1
+Wheal Martyn China Clay Wks.                                1
+White Lead Wks                                              1
+Whitefield Brick Wks.                                       1
+Whiting Wks.                                                1
+Widnes Metal Wks.                                           1
+Wilderspool Iron Wks.                                       1
+Windmillend Boiler Wks. (Disused)                           1
+Winnington Wks.                                             1
+Woodbine Wks.                                               1
+Western Wagon & Property Co's. Wks.                         1
+York New Water Wks.                                         1
+Yorkshire Metal Wks.                                        1
+atlas wks.                                                  1
+bolt wks.                                                   1
+brick & tile wks. (disused)                                 1
+brick wks                                                   1
+brick, lime & whiting wks.                                  1
+brow brick wks.                                             1
+Wharfedale Iron Wks.                                        1
+West Heaton Brick Wks.                                      1
+chatsworth Wks. (disused)                                   1
+Warbur's Eye Wks.                                           1
+Varnish Wks                                                 1
+Varnish Wks.                                                1
+Varnish, Paint & Colour Wks.                                1
+Victoria Wks                                                1
+Vinegar Wks.                                                1
+W. Wks.                                                     1
+Wagon Wks                                                   1
+Wallasey Gas & Water Wks.                                 1
+Wareham cement wks.                                       1
+Washington Wks.                                           1
+Water Wks. (Birkenhead Corporation)                       1
+Water Wks. (L & N. W. R.)                                 1
+Water Wks. (Lewes Corporation)                            1
+Water Wks. (Macclesfield Corporation)                     1
+Water Wks. (Oxford Corporation)                           1
+Waterloo Iron Wks.                                        1
+West Bank Chemical Wks.                                   1
+canal engineering wks.                                    1
+chlorine wks.                                             1
+rope wks.                                                 1
+match Wks.                                                1
+mellanear smelting wks.                                   1
+paint wks.                                                1
+providence Wks.                                           1
+reed wks.                                                 1
+reliance wks.                                             1
+rubber Wks.                                               1
+lime wks.                                                 1
+sewage wks.                                               1
+sewage wks. (Blackburn Corpn.)                            1
+silica fire brick wks.                                    1
+water wks.                                                1
+water wks. (burgess hill u. d.)                           1
+watling wks.                                              1
+lowe mill bleach print wks.                               1
+laundry & Wadding Wks.                                    1
+clarence salt wks.                                        1
+cycle wks.                                                1
+dearne & dove glass bottle wks.                           1
+denham springs old print wks.                             1
+dye wks.                                          1
+engineering wks.                                  1
+gas wks                                           1
+gas wks (selby ud council)                        1
+king's cross wks.                                 1
+iron wks. (disused)                               1
+Upper Water Wks.                                  1
+Unity Fuse Wks.                                   1
+Tynewydd Tin Plate Wks.                           1
+Sewage Wks. (Horsforth U. D. C.)                  1
+Howcans Fireclay Wks.                             1
+Ry. Carriage Wks.                                 1
+Samlesbury Sewage Wks. (Blackburn Corporation)    1
+Sawing & Creosoting Wks.                          1
+Sewage Outfall Wks (Prescot U. D. C.)             1
+Sewage Wks. (Ambleside U. D. C.)                  1
+Sewage Wks. (Flockton U. D. Council)              1
+Sewage Wks. (Great Ouseburn R. D. Council)        1
+Sewage Wks. (Ince in Makerfield U. D. C.)         1
+Royshaw Brick Wks.                                1
+Sewage Wks. (Skipton R. D. C.)                    1
+Sewage Wks. (Tadcaster U. D. C.)                  1
+Sewage Wks. (Wimbledon U. D.)                     1
+Sewage Wks. (Worsborough U. D. Council)           1
+Shutfield Brick & Tile Wks.                       1
+Shuttle Wks.                                      1
+Silex Wks.                                        1
+Silica Brick Wks.                                 1
+Ruddle China Clay Wks.                            1
+Royal Victoria Wks.                               1
+Tyne Cement Wks.                                  1
+Richmond Lime Wks.                                1
+Retorts Wks                                       1
+Rio TInto Copper Wks.                             1
+Rowntree's Cocoa Wks.                             1
+Riversdale Wks. (Fireworks)                       1
+Rock Hill China Clay Wks.                         1
+Roller Wks.                                       1
+Rose Hill Wks                                     1
+Rose Mount Iron Wks.                              1
+Rose Wks.                                         1
+Rother Iron Wks                                   1
+Round Oak Wks.                                    1
+Singlerose China Clay Wks.                        1
+Brick Works                                                1623
+Gas Works                                                  1344
+Brick & Tile Works                                          360
+Brick Works (Disused)                                       180
+Old Jet Workings                                            153
+Chemical Works                                              126
+Union Workhouse                                             122
+Iron Works                                                  116
+brick works                                                 112
+Old Coal Workings                                           111
+Sewage Works                                                101
+gas works                                                    99
+Water Works                                                  76
+Brick & Tile Works (Disused)                                 67
+Engineering Works                                            67
+Dye Works                                                    55
+Old Workhouse                                                55
+Old Brick Works                                              54
+Workhouse                                                    54
+Lime Works                                                   45
+Rope Works                                                   36
+Manure Works                                                 35
+Bleach Works                                                 30
+Cement Works                                                 30
+Workho.                                                      29
+Stream Works (Tin)                                           28
+brick works (disused)                                        26
+Brick works                                                  24
+Engine Works                                                 22
+Victoria Works                                               21
+Glass Works                                                  21
+GAS WORKS                                                    21
+Boiler Works                                                 19
+Whiting Works                                                19
+Gas works                                                    19
+Tile Works                                                   19
+Electric Light Works                                         18
+Gas Works (Disused)                                          17
+Steel Works                                                  17
+Old Workings                                                 17
+Print Works                                                  16
+brick & tile works                                           16
+Salt Works                                                   16
+Soap Works                                                   15
+Brick & Pipe Works                                           14
+Chemical Manure Works                                        14
+Oil Works                                    14
+Mineral Water Works                          13
+Varnish Works                                13
+Wagon Works                                  13
+Electricity Works                            13
+Carriage Works                               13
+Printing Works                               13
+Workhouse Farm                               12
+Paper Works                                  12
+BRICK WORKS                                  12
+stream works (tin)                           12
+Lead Works                                   12
+Brick Works (disused)                        11
+Iron Works (Disused)                         11
+Britannia Works                              11
+union workhouse                              11
+Lime Works (Disused)                         10
+Albion Works                                 10
+Portland Cement Works                        10
+Tile Works (Disused)                         10
+Cycle Works                                  10
+Works                                        10
+Slate Works                                  10
+Tin Plate Works                               9
+Fire Brick Works                              9
+Chemical Works (Disused)                      8
+Vulcan Works                                  8
+WATER WORKS                                   8
+Galvanizing Works                             8
+Spade & Shovel Works                          8
+Tube Works                                    8
+Leather Works                                 8
+Fire Clay Works                               8
+Color Works                                   7
+Bone Works                                                7
+Copper Works                                              7
+old jet workings                                          7
+Victoria Brick Works                                      7
+Old Railway Workings                                      7
+Preserve Works                                            7
+Crown Works                                               7
+Sanitary Pipe Works                                       6
+iron works                                                6
+Salt Works (Disused)                                      6
+Perseverance Works                                        6
+China Clay Works (Disused)                                6
+Carpet Works                                              6
+Union Workho.                                             6
+Old Alum Works                                            6
+engineering works                                         6
+Manganese Works (Disused)                                 6
+Enamel Works                                              6
+Pottery Works                                             6
+Glue Works                                                6
+Sewage Works (Bradford Corporation)                       6
+Cabinet Works                                             6
+Rope & Twine Works                                        6
+Fireworks Manufactory                                     6
+Creosote Works                                            6
+Sewage Works (Barrow upon Soar R. D. Council)             5
+gas Works                                                 5
+Glass Bottle Works                                        5
+Atlas Works                                               5
+Midland Works                                             5
+Cement Works (Disused)                                    5
+Phoenix Works                                             5
+Workshops                                                 5
+Tin Plate Works (Disused)                                 5
+Coal Workings                                             5
+China Clay Works                                          5
+Victoria Iron Works                                       5
+Sewage Works (Hemsworth R. D. C.)                         5
+Bottle Works                                              5
+sewage works                                              5
+Sewage Works (Blackburn R. D. C.)                         5
+Coach Works                                               5
+Brass Works                                               5
+Standard Works                                            5
+Old Railway Works                                         5
+Old Stream Works (Tin)                                    5
+chemical works                                            5
+Locomotive Works                                          5
+M. R. MANSFIELD & WORKSOP                                 5
+Old Lime Works                                       5
+Sewage Works (Alfreton U. D. C.)                     4
+Basket Works                                         4
+Hat Works                                            4
+Brick, Tile & Pottery Works                          4
+Cambrian Works                                       4
+Colour Works                                         4
+Stream works (tin)                                   4
+Sewage Works (Skipton R. D. Council)                 4
+Granite Works                                        4
+Fullers Earth Works                                  4
+Fireworks Factory                                    4
+Reliance Works                                       4
+Brick Tile & Pipe Works                              4
+Cotton Works                                         4
+old brick works                                      4
+Abbey Works                                          4
+Railway Wagon Works                                  4
+Old Jet workings                                     4
+Atlas Brick Works                                    4
+Iron & Steel Works                                   4
+Bleaching Works                                      4
+Sewage Works (Blackwell R. D. C.)                    4
+Wire Rope Works                                      4
+Water Works (Disused)                                4
+Trent Works                                          4
+Stone Works                                          4
+Engraving Works                                      4
+Implement Works                                      4
+Old Tin Stream Works                                 4
+Hosiery Works                                        4
+Machine Works                                                 4
+Springfield Works                                             4
+Tallow Works                                                  4
+Workhouse Yard                                                4
+Agricultural Implement Works                                  4
+Fireclay Works                                                4
+Sewage Works (Methley U. D. Council)                          4
+Patent Fuel Works                                             4
+Firework Factory                                              4
+Smelting Works                                                4
+Old Tile Works                                                4
+dye works                                                     4
+Nail Works                                                    4
+Sewage Works (Great Ouseburn R. D. Council)                   4
+Marble Works                                                  4
+Tar Works                                                     4
+Sewage Works (Hemsworth R. D. Council)                        4
+workhouse                                                     4
+Sanitary Pipe & Brick Works                                   3
+Rugby Portland Cement Works                                   3
+old lead workings                                             3
+Brick & Pottery Works                                         3
+Brick & Drain Pipe Works                                      3
+Vitriol Works                                                 3
+Brick & Lime Works                                            3
+Rubber Works                                                  3
+Vinegar Works                                                 3
+Imperial Works                                                3
+Workhouse Corner                                              3
+Blue Lias Lime & Cement Works                                 3
+manure works                                                  3
+Biscuit Works                                                 3
+Lambeth Water Works                                           3
+Cyclops Works                                                 3
+brick & Tile Works                                            3
+Linen Works                                                   3
+Water works                                                   3
+Brick & Terra Cotta Works                                     3
+Pumping Station (South Essex Water Works)                     3
+Pumping Station (South Staffordshire Water Works Co.)         3
+Carriage & Wagon Works                                        3
+fuse works                                                    3
+Moss Litter Works                                             3
+Pumping Station (East London Water Works)                     3
+lime works                                                    3
+Candle Works                                                  3
+Canal Works                                                 3
+White Lead Works                                            3
+brick & tile works (disused)                                3
+Jet Workings                                                3
+Brick, Tile & Drain Pipe Works                              3
+Britannia Iron Works                                        3
+Brick & Tiles Works                                         3
+Metal Works                                                 3
+Bone Manure Works                                           3
+Workhouse Plantation                                        3
+old coal workings                                           3
+Grease Works                                                3
+Phoenix Iron Works                                          3
+Sewage Works (Ardsley East & West U. D. Council)            3
+Silk Works                                                  3
+Sewage Works (Ripon R. D. Council)                          3
+Ammunition Works                                            3
+Southwark & Vauxhall Water Works                            3
+Hermand Oil Works                                           3
+Sewage Works (Wakefield R. D. Council)                      3
+Starch Works                                                3
+Excelsior Works                                             3
+Falcon Works                                                3
+Albert Works                                                3
+Sewage Works (Wetherby R. D. C.)                            3
+Old Lead Works                                              3
+Pipe Works                                                  3
+Globe Brick Works                                           3
+Glass Works (Disused)                                       3
+Earthwork (Remains of)                                      3
+Sewage Works (Wrexham R. D. Council)                        3
+water works                                                 3
+Aerated Water Works                                         3
+Finishing Works                                             3
+Fireclay & Brick Works                                      3
+Eagle Works                                                 3
+wagon works                                                 3
+Old Iron Workings                                          3
+Slate Works (Disused)                                      3
+Old Tin Workings                                           3
+Soho Iron Works                                            3
+Paint Works                                                3
+Dinas Silica Works                                         3
+Telegraph Works                                            3
+Grand Junction Water Works                                 3
+Artificial Manure Works                                    3
+Old Salt Works                                             3
+Sewage Works (Preston R. D. C.)                            3
+Sewage Outfall Works                                       3
+Sewage Works (Pontefract R. D. C.)                         3
+Sewage Works (Ossett Corporation)                          3
+Sewage Works (Tadcaster R. D. Council)                     3
+Guano Works                                                3
+Highfield Brick Works                                      3
+Sewage Works (Great Ouseburn R. D. C.)                     3
+Hope Works                                                 3
+Sewage Works (Skegby R. D. C.)                             3
+Sewage Works (Settle R. D. C.)                             2
+Wilnecote Works                                            2
+Sewage Works (Settle R. D. Council)                        2
+Wire Works                                                 2
+Farina Works (Disused)                                     2
+Sewage Works (Skipton R. D. C.)                            2
+Windmill Works                                             2
+Sanitary Works                                             2
+Sewage Works (Sedbergh R. D. C.)                           2
+Stream Works (Tin, Disused)                                2
+Littleton Brick Works                                      2
+Carbon Works                                               2
+Etna Brick Works                                           2
+Greenbank Works                                            2
+Sewage Works (Pudsey Corporation)                          2
+Weston Works                                               2
+Westfield Works                                            2
+West Middlesex Water Works                                 2
+Greystone Lime Works                                       2
+Sewage Works (Rothwell U. D. Council)                      2
+Sewage Works (Saddleworth U. D. Council)                   2
+
+##### suggestion to search for "engine"
+
 
 ##### NEXT SEARCHES
 
 ## 3. transport labels
-
