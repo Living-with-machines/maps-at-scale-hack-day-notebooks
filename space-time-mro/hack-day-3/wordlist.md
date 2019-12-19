@@ -6,30 +6,16 @@ Reading room, reading room, Reading rooms, Library & Reading Room, Reading room,
 
 ##### "institute"
 
-Mechanics' Institute                                
-Literary Institute                                  
-Mechanics Institute                                 
-Working Men's Institute                             
-Workmen's Institute                                 
-Seaman's Institute                                  
-Oddfellows' Institute                               
-Sailors' Institute                                  
-People's Institute                                  
-Soldiers' & sailors' Institute                      
-Seamen's Institute                                  
-miners' institute                                   
-mechanics' institute                                
-Workingmen's Institute                              
+
+Mechanics' Institute, Literary Institute, Mechanics Institut, Working Men's Institute, Workmen's Institute, Seaman's Institute, Oddfellows' Institute, Sailors' Institute, People's Institute, Soldiers' & sailors' Institute, Seamen's Institute, miners' institute, mechanics' institute, Workingmen's Institute
+
 
 ##### "literary"
 
-Literary Institute       6
-Literary Inst.           1
-Literary Institution     1
+Literary Institute, Literary Inst., Literary Institution
 
 ##### "library"
-Liby.           1
-Library                     31
+Liby., Library
 Free Library                28
 Public Library               8
 free library                 3
