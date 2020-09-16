@@ -1,5 +1,5 @@
 # Maps hackdays example notebooks 
-Example notebooks produced as part of the living with machines project for a series of "hackdays" on working with maps at scale
+This repository contains a numberof notebooks produced as part of the living with machines project for a series of "hackdays" on working with maps at scale. 
 
 These notebooks are shared an artefact of the Living with Machines projects working process, and are unlikely to be useful for very much else in their current state. We are busy working on outputs based on much of this work which should be avalable soon™️
 
