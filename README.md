@@ -1,6 +1,6 @@
 # Maps hackdays example notebooks 
 
-This repository contains a numberof notebooks produced as part of the Living with Machines (LwM) project for a series of "hack days" on working with maps at scale. 
+This repository contains a number of notebooks produced as part of the Living with Machines (LwM) project for a series of "hack days" on working with maps at scale. 
 
 These notebooks are shared an artefact of the Living with Machines projects working process, and are probably not that directly useful in their current form. We are busy working on outputs based on much of this work which should be avalable soon™️ 
 
