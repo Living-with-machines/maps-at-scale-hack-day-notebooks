@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4036437.svg)](https://doi.org/10.5281/zenodo.4036437)
+
 # Maps hack days example notebooks 
 
 This repository contains several notebooks produced as part of the [Living with Machines](livingwithmachines.ac.uk/) (LwM) project for a series of "hack days" on working with maps at scale. 
