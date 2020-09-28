@@ -1,5 +1,7 @@
+‼These notebooks were used for a series of hack days and won't work now. They are shared as an artefact of the living with machines project. ‼️
 
-# Usage
+
+# ~Usage~
 - The notebooks currently aim to work on collab and locally but the steps to get them running will vary slightly. 
 - For colab you will need to run a cell at the top of each notebook which installs the additional missing packages. 
 - For working with these notebooks locally you will need to make sure you have Azcopy insalled. The steps for doing this can be found at https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10
